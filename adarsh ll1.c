@@ -28,7 +28,7 @@ if(head==NULL)
 }
 else
 	{
-	currentnode->link=newnode;
+	currentnode->link=newnode
 	currentnode=newnode;
 	}
 }
