@@ -1,0 +1,8 @@
+#include<stdio.h>
+{
+  printf("enter two numbers");
+  scanf("%d",&a);
+  scanf("%d",&b);
+  printf("product is %d",a*b);
+  printf("sum is %d",a+b);
+ } 
