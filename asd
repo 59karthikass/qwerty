@@ -2,7 +2,6 @@
 
 main()
 {
-/* variable definition and initialization */
     char stringArray[100];
 
     printf("Please write something: \n");
